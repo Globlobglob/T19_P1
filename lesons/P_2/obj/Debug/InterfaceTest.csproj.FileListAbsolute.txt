@@ -1,0 +1,7 @@
+C:\Users\MosquitoParisi\Desktop\IsIp\InterfaceTest\bin\Debug\InterfaceTest.exe.config
+C:\Users\MosquitoParisi\Desktop\IsIp\InterfaceTest\bin\Debug\InterfaceTest.exe
+C:\Users\MosquitoParisi\Desktop\IsIp\InterfaceTest\bin\Debug\InterfaceTest.pdb
+C:\Users\MosquitoParisi\Desktop\IsIp\InterfaceTest\obj\Debug\InterfaceTest.csproj.AssemblyReference.cache
+C:\Users\MosquitoParisi\Desktop\IsIp\InterfaceTest\obj\Debug\InterfaceTest.csproj.CoreCompileInputs.cache
+C:\Users\MosquitoParisi\Desktop\IsIp\InterfaceTest\obj\Debug\InterfaceTest.exe
+C:\Users\MosquitoParisi\Desktop\IsIp\InterfaceTest\obj\Debug\InterfaceTest.pdb
